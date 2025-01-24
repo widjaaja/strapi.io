@@ -195,11 +195,6 @@ strapi.log.error('Terjadi kesalahan');
 - [GitHub Strapi](https://github.com/strapi/strapi)
 - [Komunitas Discord Strapi](https://discord.strapi.io)
 
-### 11.2 Kursus & Tutorial
-- Udemy
-- YouTube Channel
-- Dokumentasi Resmi Strapi
-
 ## Kesimpulan
 
 Strapi.io menawarkan solusi powerful untuk membangun API dan backend secara cepat dan fleksibel. Dengan pendekatan headless CMS dan arsitektur modular, Strapi memungkinkan pengembang untuk menciptakan solusi backend yang sangat kustomatif dan skalabel.
