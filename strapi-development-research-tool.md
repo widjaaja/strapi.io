@@ -1,4 +1,4 @@
-# Panduan Riset Mendalam Pengembangan Strapi.io
+# Panduan Riset Pengembangan Strapi.io
 
 ## 1. Pengenalan Strapi
 
